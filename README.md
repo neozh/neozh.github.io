@@ -1,2 +1,2 @@
 # neozh.github.io
-Neo zhang's page
+就用这个来做自己的个人主页吧。
